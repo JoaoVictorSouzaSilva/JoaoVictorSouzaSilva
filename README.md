@@ -39,6 +39,12 @@
 
 ---
 
+## 📂 Projetos em destaque
+
+- [Flask To-Do API](https://github.com/JoaoVictorSouzaSilva/flask-todo-api) - API simples para gerenciar tarefas usando Flask  
+
+---
+
 ### **Projetos em andamento**
 Em breve você verá por aqui:
 - APIs com FastAPI
