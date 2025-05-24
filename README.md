@@ -1,27 +1,24 @@
-<h1 align="center">🚀 Meu começo como Desenvolvedor</h1>
-
-<p align="center">
+<div align="center">
+  <h1>🚀 Meu começo como Desenvolvedor</h1>
   <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="300px" alt="Tech Gif"/>
-</p>
-
-<p align="center">
+  <br />
   <a href="https://github.com/JoaoVictorSouzaSilva">
     <img src="https://komarev.com/ghpvc/?username=JoaoVictorSouzaSilva&color=blue" alt="Profile views" />
   </a>
-</p>
+</div>
 
 ---
 
 ### 👨‍💻 Sobre mim
 
-- 🧑‍🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 - ⚙️ Explorando o mundo da programação com **Python, Java e SQL**
-- 📈 Buscando me destacar com projetos práticos e aprendizado constante
-- 📫 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-victor-souza-silva-9a6a2525b/)
+- 🎯 Focado em desenvolvimento prático, resolução de problemas e constante evolução técnica
+- 🤝 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-victor-souza-silva-9a6a2525b/)
 
 ---
 
-### 🧰 Tecnologias em que estou focando:
+### 🧰 Tecnologias em que estou focando
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -39,17 +36,21 @@
 
 ---
 
-## 📂 Projetos em destaque
+### 📂 Projetos em destaque
 
-- [Flask To-Do API](https://github.com/JoaoVictorSouzaSilva/flask-todo-api) - API simples para gerenciar tarefas usando Flask  
+- [Flask To-Do API](https://github.com/JoaoVictorSouzaSilva/flask-todo-api)  
+  API RESTful para gerenciamento de tarefas com suporte a operações CRUD usando Flask.
+
+- [Renomeador de Arquivos em Massa](https://github.com/JoaoVictorSouzaSilva/renomeador)  
+  Script Python simples para renomear arquivos de uma pasta em lote com base num nome definido.
 
 ---
 
-### **Projetos em andamento**
-Em breve você verá por aqui:
+### 🚧 Projetos em andamento
+
 - APIs com FastAPI
 - Bots com Python
-- Projetos de automação e análise de dados
+- Automação e análise de dados
 - Repositórios de estudos e desafios
 
 ---
