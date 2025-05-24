@@ -42,7 +42,7 @@
   API RESTful para gerenciamento de tarefas com suporte a operações CRUD usando Flask.
 
 - [Renomeador de Arquivos em Massa](https://github.com/JoaoVictorSouzaSilva/renomeador)  
-  Script Python simples para renomear arquivos de uma pasta em lote com base num nome definido.
+  Script Python para renomear arquivos de uma pasta em lote com base num nome definido.
 
 ---
 
